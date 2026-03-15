@@ -1,0 +1,20 @@
+{
+    "name": "claude-skills",
+    "version": "1.0.0",
+    "description": "CLI to download Claude.ai skills by Harshchanchad4",
+    "type": "module",
+    "main": "index.js",
+    "bin": {
+      "claude-skills": "./index.js"
+    },
+    "keywords": ["claude", "skills", "ai", "claude-skills", "anthropic"],
+    "author": "Harshchanchad4",
+    "license": "MIT",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/Harshchanchad4/claude-skills"
+    },
+    "engines": {
+      "node": ">=18.0.0"
+    }
+  }
